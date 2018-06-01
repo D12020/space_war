@@ -17,4 +17,4 @@ You need to maneuver your spaceship and dodge bullets left and right to acheive 
 
 ![alt text](https://github.com/D12020/space_war/blob/master/screenshots/Capture.PNG)
 
-[Download EXE](https://www.google.com)
+[Download EXE](https://github.com/D12020/space_war/releases)
