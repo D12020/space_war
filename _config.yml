@@ -1,1 +1,4 @@
 theme: jekyll-theme-minimal
+title: Space Invaders
+description: A super intense war to protect earth and save the galaxy.
+show_downloads: True
