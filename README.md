@@ -1,4 +1,4 @@
-# space_war
+# Space Invaders
 
 ## Object of the Game
 
